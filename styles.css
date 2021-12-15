@@ -1,45 +1,8 @@
-h1{
-color: red;
-background-color: green;
-font family: calibri;
+.background {
+background-color: lightgrey;
 }
 
-h2{
-color: blue;
-background-color: yellow;
-font-family: calibri;
-}
-
-h5{
-color: orange;
-background-color: black;
-font-family: calibri;
-}
-
-#q1 {
-font-family: courier new;
-}
-
-.center {
-text-align: center;
-}
-
-.bloo {
-color: yellow;
-background-color: blue;
-}
-
-.quotes {
-background-color: pink;
-}
-
-.buttons {
-background-color: tan;
-}
-
-.roundpic {
-border-radius: 12px;
-}
-.pngroundpic {
-border-radius: 50%;
+.background2 {
+background-color: darkgrey;
+color: snow;
 }
